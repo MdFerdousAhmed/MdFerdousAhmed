@@ -110,8 +110,12 @@ https://livestock-booking-platform.vercel.app/
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/md-ferdous-ahmed/">
+<a href="https://www.linkedin.com/in/md-ferdous-ahmed">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://www.facebook.com/Md.FerdousAhmed3112">
+<img src="https://cdn.simpleicons.org/facebook" height="45"/>
 </a>
 
 <a href="mailto:mdferdousahmed31122003@gmail.com">
@@ -126,7 +130,7 @@ https://livestock-booking-platform.vercel.app/
 
 > "First, solve the problem. Then, write the code."
 
-— John Johnson
+— Md.Ferdous Ahmed
 
 ---
 
