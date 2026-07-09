@@ -44,7 +44,7 @@ Currently exploring AI-Driven Development to become a better software engineer.
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
 
 ---
