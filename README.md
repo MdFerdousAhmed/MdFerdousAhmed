@@ -51,6 +51,16 @@ Currently exploring AI-Driven Development to become a better software engineer.
 
 ##  Featured Projects
 
+###  LegalEase
+A modern lawyer hiring platform that seamlessly connects clients with qualified lawyers. It features secure authentication, role-based dashboards, lawyer profile management, appointment booking, and a responsive user experience.
+
+**Tech:** Next.js • MongoDB • Better Auth • Tailwind CSS
+
+🔗 Live Demo:
+https://legalease-client-alpha.vercel.app
+
+---
+
 ###  HireLoop
 A modern hiring platform with role-based authentication, recruiter dashboard, job management, and secure APIs.
 
@@ -64,7 +74,7 @@ https://hireloop-client-main.vercel.app
 ###  StudyNook
 Room booking platform with authentication, booking management, and responsive UI.
 
-**Tech:** Next.js • MongoDB • Tailwind CSS
+**Tech:** Next.js • MongoDB • Better Auth • Tailwind CSS
 
 🔗 Live Demo:
 https://studynook-henna.vercel.app
@@ -74,6 +84,8 @@ https://studynook-henna.vercel.app
 ###  Livestock Booking Platform
 
 Book and manage livestock online with a clean user experience.
+
+**Tech:** Next.js • MongoDB • Better Auth • Tailwind CSS
 
 🔗 Live Demo:
 https://livestock-booking-platform.vercel.app
