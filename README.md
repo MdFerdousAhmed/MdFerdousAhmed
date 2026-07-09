@@ -56,12 +56,18 @@ A modern hiring platform with role-based authentication, recruiter dashboard, jo
 
 **Tech:** Next.js • MongoDB • Better Auth • Tailwind CSS
 
+🔗 Live Demo:
+https://hireloop-client-main.vercel.app
+
 ---
 
 ###  StudyNook
 Room booking platform with authentication, booking management, and responsive UI.
 
 **Tech:** Next.js • MongoDB • Tailwind CSS
+
+🔗 Live Demo:
+https://studynook-henna.vercel.app
 
 ---
 
@@ -70,7 +76,7 @@ Room booking platform with authentication, booking management, and responsive UI
 Book and manage livestock online with a clean user experience.
 
 🔗 Live Demo:
-https://livestock-booking-platform.vercel.app/
+https://livestock-booking-platform.vercel.app
 
 ---
 
