@@ -128,9 +128,9 @@ https://livestock-booking-platform.vercel.app
 ##  GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MdFerdousAhmed&theme=tokyonight&row=1&column=4&margin-w=15&margin-h=15" alt="GitHub trophies" />
-  </a>
+   <img src="https://img.shields.io/badge/Projects-4%20Live%20Apps-success?style=for-the-badge" alt="4 live projects" />
+  <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Next.js-0A66C2?style=for-the-badge" alt="MERN and Next.js" />
+  <img src="https://img.shields.io/badge/Focus-AI--Driven%20Development-8A2BE2?style=for-the-badge" alt="AI-driven development" />
 </p>
 
 ---
