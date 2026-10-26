@@ -128,7 +128,9 @@ https://livestock-booking-platform.vercel.app
 ##  GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MdFerdousAhmed&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MdFerdousAhmed&theme=tokyonight&row=1&column=4&margin-w=15&margin-h=15" alt="GitHub trophies" />
+  </a>
 </p>
 
 ---
