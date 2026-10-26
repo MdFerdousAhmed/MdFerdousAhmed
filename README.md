@@ -3,7 +3,7 @@
   <img src="linkedin_banner_gradient.jpg">
 </p>
 
-<h1 align="center">Hi, I'm Md.Ferdous Ahmed</h1>
+<h1 align="center">Hi, I'm MD.FERDOUS AHMED</h1>
 
 <h3 align="center">
 Full Stack Web Developer • MERN Stack • Next.js Developer
