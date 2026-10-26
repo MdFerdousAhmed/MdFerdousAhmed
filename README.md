@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQH0fUaCKKpFfw/profile-displaybackgroundimage-shrink_350_1400/B56ZzTwRVcIcAc-/0/1773079174577?e=1794441600&v=beta&t=Xl8z5kTaMNUzBVRMv-P-u3BG8bHcDCToVsqtdsVNzqY">
+  <img src="linkedin_banner_gradient.jpg">
 </p>
 
 <h1 align="center">Hi, I'm Md.Ferdous Ahmed</h1>
