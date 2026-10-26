@@ -1,4 +1,4 @@
-this is my code please fixed all isue <!-- Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="linkedin_banner_gradient.jpg">
 </p>
