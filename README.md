@@ -135,18 +135,6 @@ https://livestock-booking-platform.vercel.app
 
 ---
 
-##  Contribution Graph
-
-<p align="center">
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdFerdousAhmed/MdFerdousAhmed/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MdFerdousAhmed/MdFerdousAhmed/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MdFerdousAhmed/MdFerdousAhmed/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
 ##  Connect With Me
 
 <p align="left">
