@@ -51,6 +51,26 @@ Currently exploring AI-Driven Development to become a better software engineer.
 
 ##  Featured Projects
 
+### TravelMate
+A modern travel management platform that helps users explore travel packages, manage bookings, and plan trips seamlessly. It features secure authentication, role-based dashboards, package management, booking management, and a responsive user experience.
+
+**Tech:** Next.js • React • Node.js • Express.js • MongoDB • Redux Toolkit • Tailwind CSS
+
+🔗 Live Demo: 
+https://travelmate-client-kappa.vercel.app
+
+---
+
+### QuickDine
+A modern restaurant management platform that allows users to explore restaurants, browse menus, order food online, and book tables effortlessly. It features secure authentication, role-based dashboards, restaurant management, food ordering, table reservations, and a responsive user experience.
+
+**Tech:** Next.js • TypeScript • Node.js • Express.js • MongoDB • Tailwind CSS • Cloudinary
+
+🔗 Live Demo: 
+https://quick-dine-client-gilt.vercel.app
+
+---
+
 ###  LegalEase
 A modern lawyer hiring platform that seamlessly connects clients with qualified lawyers. It features secure authentication, role-based dashboards, lawyer profile management, appointment booking, and a responsive user experience.
 
