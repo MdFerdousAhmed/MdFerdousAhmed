@@ -138,7 +138,7 @@ https://livestock-booking-platform.vercel.app
 ##  Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdFerdousAhmed&theme=tokyo-night"/>
+   <img src="https://ghchart.rshah.org/6C63FF/MdFerdousAhmed" alt="MdFerdousAhmed's GitHub contribution chart" />
 </p>
 
 ---
